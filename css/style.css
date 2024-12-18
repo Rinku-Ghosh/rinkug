@@ -1,0 +1,9 @@
+.hero-bg{
+	    background:url('../images/pk.jpg')no-repeat center center;
+		background-size:cover;
+		border-radius:8px;
+}
+.btn-main{
+	     background:#FF5400!important;
+}
+
